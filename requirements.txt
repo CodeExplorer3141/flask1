@@ -1,5 +1,5 @@
 flask==2.0.1
 requests==2.26.0
-you-get==0.4.1600
+you-get>=0.4.1600
 # 如果需要 PyTorch，使用以下格式
 # torch==2.1.0
